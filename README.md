@@ -8,7 +8,7 @@ This is a university 3rd-year "Software Process Management" module project. GoGo
 - User purchase history to keep track of previous transactions.
 - Favorites section to save and access preferred items.
 
-  ## Technologies Used
+## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
@@ -18,7 +18,7 @@ This is a university 3rd-year "Software Process Management" module project. GoGo
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/GoGo-Gadget-Store.git
+git clone https://github.com/inwick/GoGo-Gadget-Store
 ```
 
 2. Change into the project directory:
@@ -26,7 +26,7 @@ git clone https://github.com/your-username/GoGo-Gadget-Store.git
 cd GoGo-Gadget-Store
 ```
 
-3.Install the dependencies:
+3. Install the dependencies:
 ```
 npm install
 ```
